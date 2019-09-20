@@ -1,0 +1,11 @@
+C:\Users\User\Documents\CSharpLecturesFall2019\lecture6\StarRectangular\obj\Debug\netcoreapp2.2\StarRectangular.csprojAssemblyReference.cache
+C:\Users\User\Documents\CSharpLecturesFall2019\lecture6\StarRectangular\obj\Debug\netcoreapp2.2\StarRectangular.csproj.CoreCompileInputs.cache
+C:\Users\User\Documents\CSharpLecturesFall2019\lecture6\StarRectangular\obj\Debug\netcoreapp2.2\StarRectangular.AssemblyInfoInputs.cache
+C:\Users\User\Documents\CSharpLecturesFall2019\lecture6\StarRectangular\obj\Debug\netcoreapp2.2\StarRectangular.AssemblyInfo.cs
+C:\Users\User\Documents\CSharpLecturesFall2019\lecture6\StarRectangular\bin\Debug\netcoreapp2.2\StarRectangular.deps.json
+C:\Users\User\Documents\CSharpLecturesFall2019\lecture6\StarRectangular\bin\Debug\netcoreapp2.2\StarRectangular.runtimeconfig.json
+C:\Users\User\Documents\CSharpLecturesFall2019\lecture6\StarRectangular\bin\Debug\netcoreapp2.2\StarRectangular.runtimeconfig.dev.json
+C:\Users\User\Documents\CSharpLecturesFall2019\lecture6\StarRectangular\bin\Debug\netcoreapp2.2\StarRectangular.dll
+C:\Users\User\Documents\CSharpLecturesFall2019\lecture6\StarRectangular\bin\Debug\netcoreapp2.2\StarRectangular.pdb
+C:\Users\User\Documents\CSharpLecturesFall2019\lecture6\StarRectangular\obj\Debug\netcoreapp2.2\StarRectangular.dll
+C:\Users\User\Documents\CSharpLecturesFall2019\lecture6\StarRectangular\obj\Debug\netcoreapp2.2\StarRectangular.pdb
